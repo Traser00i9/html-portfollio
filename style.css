@@ -1,0 +1,24 @@
+h1 {
+color: red;
+font-size:50px;
+text-align: center;
+font: bolder;
+}
+th {
+    background-color: rgb(109, 180, 221);
+    color: aliceblue;
+}
+tr {
+    background-color: aquamarine;
+}
+h2 {
+    color: darkblue;
+}
+body {
+    background-color: rgb(191, 233, 233);
+    opacity: 0.9999999999999995;
+} 
+.red-text {
+    color:rgb(32, 30, 27);
+    font-style: italic;
+}
